@@ -1,3 +1,3 @@
 <? php
-  echo "Repo test";
+  echo "Hello World in Repo test";
 ?>
